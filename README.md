@@ -1,7 +1,6 @@
 # Hi 👋 I'm Vivek
 
 💻 Full Stack Developer
-📚 GATE DA 2027 Aspirant
 🚀 Passionate about AI & FinTech
 
 ## About Me
